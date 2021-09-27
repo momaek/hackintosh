@@ -38,8 +38,8 @@ Support WPA/WPA2-Enterprise
 ## Airdrop
 Work buggly
 
-## TODO
-You have to update `config.plist` the following fields:
+## To-Use
+You have to update `config.plist`'s fields:
 - PlatformInfo -> Generic -> MLB
 - PlatformInfo -> Generic -> SystemSerialNumber
 - PlatformInfo -> Generic -> SystemUUID
